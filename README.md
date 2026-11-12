@@ -55,6 +55,12 @@ SmartCoffee/
     └── imagem_sobre.jpg    # Imagem da seção Sobre nós
 ```
 
+## Próximos passos
+
+- Conectar o formulário de contato a um serviço de envio.
+- Associar os links do rodapé às redes sociais da cafeteria.
+- Refinar a experiência em telas menores e adicionar novos itens ao cardápio.
+
 ## Observações
 
 O formulário de contato está estruturado visualmente, mas ainda não possui um serviço de envio conectado. Os links de redes sociais no rodapé também funcionam como elementos de navegação visual e podem ser associados aos perfis reais futuramente.
