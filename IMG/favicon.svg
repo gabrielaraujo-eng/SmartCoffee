@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SmartCoffee">
+  <rect width="64" height="64" rx="14" fill="#5A321B"/>
+  <path d="M16 22h28v13a14 14 0 0 1-28 0V22Zm28 3h4a7 7 0 0 1 0 14h-6" fill="none" stroke="#F3E6D7" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <path d="M23 12c-3 3 3 4 0 7m10-7c-3 3 3 4 0 7" fill="none" stroke="#C66A1A" stroke-linecap="round" stroke-width="3"/>
+  <path d="M21 51h23" stroke="#F3E6D7" stroke-linecap="round" stroke-width="4"/>
+</svg>
